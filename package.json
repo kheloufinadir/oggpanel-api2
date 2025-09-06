@@ -1,0 +1,12 @@
+{
+  "name": "oggpanel-api",
+  "version": "1.0.0",
+  "description": "Backend for OGGPANEL app",
+  "main": "api/upload.js",
+  "scripts": {
+    "start": "vercel dev"
+  },
+  "dependencies": {
+    "googleapis": "^105.0.0"
+  }
+}
